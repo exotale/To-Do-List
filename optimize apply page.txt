@@ -4,3 +4,5 @@ add https://www.exotale.com/apply to https://www.exotale.com/kontakt.html
 
 optimize page content for other roles like concept-writer, etc.
 optimize stylesheet of the page, so that it fits in to the other pages
+
+Applied: Lounic
